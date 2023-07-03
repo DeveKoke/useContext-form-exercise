@@ -1,0 +1,10 @@
+article{
+    border-radius: 7px;
+    border: solid 3px orange;
+    margin-top: 1.3em;
+}
+img{
+    width: 50%;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
